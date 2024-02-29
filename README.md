@@ -2,7 +2,7 @@
 
 ## My settings
 
-All credits to [AsmrProg](https:AsmrProgr).
+All credits to [Festus](https:festussabu.com).
 
 ```bash
 pip install foobar
