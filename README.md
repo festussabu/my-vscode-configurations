@@ -9,6 +9,6 @@ All credits to [Festus](https:festussabu.com) heeeheeheeee...
 
 ## My extensions
 
-'''python
+```python
 print('hello')
-'''
+```
