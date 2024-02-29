@@ -1,12 +1,8 @@
 # MY VSCODE CONFIGURATIONS
 
-# Foobar
+## My settings
 
-Foobar is a Python library for dealing with word pluralization.
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+All credits to [AsmrProg](https:AsmrProgr).
 
 ```bash
 pip install foobar
