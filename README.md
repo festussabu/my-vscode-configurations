@@ -4,7 +4,10 @@ All credits to [Festus](https:festussabu.com) heeeheeheeee...
 
 ## My settings
 
-![code](https://github.com/festussabu/my-vscode-configurations/assets/147224415/75bfcad2-150c-48cc-a37f-106eb14bb708)
+![code](https://github.com/festussabu/my-vscode-configurations/assets/147224415/b1cb218e-c629-4565-af7c-a2e12de85887)
+
+
+
 
 
 ## My extensions
