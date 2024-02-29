@@ -1,1 +1,1 @@
-# my-vscode-configurations
+# MY VSCODE CONFIGURATIONS
