@@ -12,3 +12,6 @@ All credits to [Festus](https:festussabu.com) heeeheeheeee...
 ```python
 print('hello')
 ```
+```bash
+pip3 install something
+```
