@@ -1,3 +1,3 @@
 # MY VSCODE CONFIGURATIONS
 
-Then what
+@Then what
