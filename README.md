@@ -1,8 +1,6 @@
 # MY VSCODE CONFIGURATIONS
 
 
-## Credits
-
 All credits to [festus](https:festussabu.com)
 
 
