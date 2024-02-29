@@ -12,6 +12,12 @@ All credits to [Festus](https:festussabu.com) heeeheeheeee...
 
 ## My extensions
 
+1. @import-font
+2. Auto Rename Tag
+
+
+
+## Readme file extra tips
 ```python
 print('hello')
 ```
