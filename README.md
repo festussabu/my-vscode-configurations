@@ -30,6 +30,7 @@
 19. vscode-icons
 20. SQLite Viewer
 21. Codetour(jonathan)-helps us to put notes in the code so later when we look at the code we can understand.
+22. Todo Highligher
 ------------------------------------------------
 
 
