@@ -27,7 +27,7 @@
 16. Pylance
 17. Python
 18. Python Debugger (I don't know why I use it..)
-19. vscode-icons
+19. material icons
 20. SQLite Viewer
 21. Codetour(jonathan)-helps us to put notes in the code so later when we look at the code we can understand.
 22. Todo Highligher [# or // or anything according to the file you are in... lets say we are in python then - # TODO: text or FIXIN: text ]
