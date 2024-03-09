@@ -15,7 +15,7 @@
 4. Beautify css/scss/sass/less
 5. c/c++ extention
 6. Code Runner
-7. Code Snap (For taking images)
+7. Code Snap / Polacode-2022 (For taking images) 
 8. Error Lens
 9. ES7+
 10. Glassit-vsc
