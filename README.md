@@ -30,7 +30,7 @@
 19. vscode-icons
 20. SQLite Viewer
 21. Codetour(jonathan)-helps us to put notes in the code so later when we look at the code we can understand.
-22. Todo Highligher
+22. Todo Highligher [# or // or anything according to the file you are in... lets say we are in python then - # TODO: text or FIXIN: text ]
 ------------------------------------------------
 
 
