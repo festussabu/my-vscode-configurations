@@ -3,7 +3,8 @@
 
 ## My settings
 
-![code](https://github.com/festussabu/my-vscode-configurations/assets/147224415/b1cb218e-c629-4565-af7c-a2e12de85887)
+![new_vscode](https://github.com/festussabu/my-vscode-configurations/assets/147224415/bca35cb6-bba9-41bf-aead-221ffd588461)
+
 
 
 
