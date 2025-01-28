@@ -40,9 +40,9 @@
 ## Readme file extra tips
 All credits to [festus](https:festussabu.com)
 
-
-
+```python
 print('hello')
+```
 
 ```bash
 pip3 install something
